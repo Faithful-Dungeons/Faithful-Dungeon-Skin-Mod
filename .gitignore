@@ -1,1 +1,7 @@
+# Visual Studio Files:
 **/UE4Project/.vs/
+
+# Unreal Ungine Files:
+**/UE4Project/Binaries
+**/UE4Project/Intermediate
+**/UE4Project/Saved
