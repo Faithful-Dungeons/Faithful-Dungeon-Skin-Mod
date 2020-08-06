@@ -5,3 +5,7 @@
 **/UE4Project/Binaries
 **/UE4Project/Intermediate
 **/UE4Project/Saved
+UE4Project/Build/WindowsNoEditor/FileOpenOrder/CookerOpenOrder.log
+
+# Packing folder :
+**/Dungeons

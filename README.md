@@ -2,14 +2,15 @@
 
 ## To-do list:
 ### Texture Artist:
-- [ ] Deborn
+- [x] Deborn
 - [ ] HaragonMC
 - [ ] jogurciQ
 - [x] Juknum
 - [ ] Pomik108
+- [x] RobertR11
 - [ ] Sei
-- [ ] Tekayo
-- [ ] Terrifik
+- [x] Tekayo
+- [x] Terrifik
 
 ### Contributors:
 - [ ] SuperMario20
