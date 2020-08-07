@@ -35,4 +35,8 @@ Edit the text files in the `Tools/user_settings` folder to configure the tools:
 
 ## Screnshots: 
 ### Texture Artists: 
-![Juknum](https://i.imgur.com/l9dzkpX.png)
+![Deborn](https://i.imgur.com/WUyVhdr.png)  Deborn  
+![Juknum](https://i.imgur.com/l9dzkpX.png)  Juknum  
+![RobertR11](https://i.imgur.com/GKB4sWZ.png)  RobertR11  
+![Tekayo](https://i.imgur.com/OXx2ADW.png)  Tekayo  
+![Terrifik](https://i.imgur.com/BQmXfF6.png)  Terrifik  
