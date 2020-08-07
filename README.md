@@ -35,8 +35,21 @@ Edit the text files in the `Tools/user_settings` folder to configure the tools:
 
 ## Screnshots: 
 ### Texture Artists: 
-![Deborn](https://i.imgur.com/WUyVhdr.png)  Deborn  
-![Juknum](https://i.imgur.com/l9dzkpX.png)  Juknum  
-![RobertR11](https://i.imgur.com/GKB4sWZ.png)  RobertR11  
-![Tekayo](https://i.imgur.com/OXx2ADW.png)  Tekayo  
-![Terrifik](https://i.imgur.com/BQmXfF6.png)  Terrifik  
+Deborn  
+![Deborn](https://i.imgur.com/WUyVhdr.png)  
+Juknum  
+![Juknum](https://i.imgur.com/l9dzkpX.png)  
+Pomik108  
+![Pomik108](https://i.imgur.com/r76rfLo.png)  
+RobertR11  
+![RobertR11](https://i.imgur.com/GKB4sWZ.png)  
+Seirin-Blu  
+![Seirin-Blu](https://i.imgur.com/7pVR1x1.png)  
+Tekayo  
+![Tekayo](https://i.imgur.com/OXx2ADW.png)  
+Terrifik  
+![Terrifik](https://i.imgur.com/BQmXfF6.png)  
+
+### Contributors:
+SuperMario20  
+![SuperMario20](https://i.imgur.com/cNScE30.png)  
