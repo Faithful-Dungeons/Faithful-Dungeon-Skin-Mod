@@ -1,0 +1,658 @@
+[
+	{
+		"Name": "steve",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Steve/MI_Steve.MI_Steve",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Steve/MI_Steve_PlayerPortrait.MI_Steve_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 5,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "alex",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Alex/MI_Alex.MI_Alex",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Alex/MI_Alex_PlayerPortrait.MI_Alex_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 5,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "pake",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Pake/MI_Pake.MI_Pake",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Pake/MI_Pake_PlayerPortrait.MI_Pake_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "game_dungeons_hero_skin_2",
+		"Order": 7,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "wargen",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Wargen/MI_Wargen.MI_Wargen",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Wargen/MI_Wargen_PlayerPortrait.MI_Wargen_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "game_dungeons_hero_skin_1",
+		"Order": 7,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "annika",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Annika/MI_Annika.MI_Annika",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Annika/MI_Annika_PlayerPortrait.MI_Annika_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "baako",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Baako/MI_Baako.MI_Baako",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Baako/MI_Baako_PlayerPortrait.MI_Baako_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "bediako",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Bediako/MI_Bediako.MI_Bediako",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Bediako/MI_Bediako_PlayerPortrait.MI_Bediako_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "elaine",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Elaine/MI_Elaine.MI_Elaine",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Elaine/MI_Elaine_PlayerPortrait.MI_Elaine_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "esperanza",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Esperanza/MI_Esperanza.MI_Esperanza",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Esperanza/MI_Esperanza_PlayerPortrait.MI_Esperanza_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "greta",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Greta/MI_Greta.MI_Greta",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Greta/MI_Greta_PlayerPortrait.MI_Greta_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "hal",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Hal/MI_Hal.MI_Hal",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Hal/MI_Hal_PlayerPortrait.MI_Hal_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "hedwig",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Hedwig/MI_Hedwig.MI_Hedwig",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Hedwig/MI_Hedwig_PlayerPortrait.MI_Hedwig_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "hex",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Hex/MI_Hex.MI_Hex",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Hex/MI_Hex_PlayerPortrait.MI_Hex_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "nuru",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Nuru/MI_Nuru.MI_Nuru",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Nuru/MI_Nuru_PlayerPortrait.MI_Nuru_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "sergey",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Sergey/MI_Sergey.MI_Sergey",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Sergey/MI_Sergey_PlayerPortrait.MI_Sergey_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "sven",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Sven/MI_Sven.MI_Sven",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Sven/MI_Sven_PlayerPortrait.MI_Sven_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "valorie",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Valorie/MI_Valorie.MI_Valorie",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Valorie/MI_Valorie_PlayerPortrait.MI_Valorie_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "darian",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Darian/MI_Darian.MI_Darian",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Darian/MI_Darian_PlayerPortrait.MI_Darian_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "eshe",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Eshe/MI_Eshe.MI_Eshe",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Eshe/MI_Eshe_PlayerPortrait.MI_Eshe_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "mayeso",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Mayeso/MI_Mayeso.MI_Mayeso",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Mayeso/MI_Mayeso_PlayerPortrait.MI_Mayeso_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "morris",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Morris/MI_Morris.MI_Morris",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Morris/MI_Morris_PlayerPortrait.MI_Morris_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "neo",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Neo/MI_Neo.MI_Neo",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Neo/MI_Neo_PlayerPortrait.MI_Neo_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "qamar",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Qamar/MI_Qamar.MI_Qamar",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Qamar/MI_Qamar_PlayerPortrait.MI_Qamar_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "sam",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Sam/MI_Sam.MI_Sam",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Sam/MI_Sam_PlayerPortrait.MI_Sam_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "shikoba",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Shikoba/MI_Shikoba.MI_Shikoba",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Shikoba/MI_Shikoba_PlayerPortrait.MI_Shikoba_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "violet",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Violet/MI_Violet.MI_Violet",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Violet/MI_Violet_PlayerPortrait.MI_Violet_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "zola",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Zola/MI_Zola.MI_Zola",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Zola/MI_Zola_PlayerPortrait.MI_Zola_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "igor",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Igor/MI_Igor.MI_Igor",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Igor/MI_Igor_PlayerPortrait.MI_Igor_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "fuego",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Fuego/MI_Fuego.MI_Fuego",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Fuego/MI_Fuego_PlayerPortrait.MI_Fuego_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "jade",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Jade/MI_Jade.MI_Jade",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Jade/MI_Jade_PlayerPortrait.MI_Jade_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 10,
+		"ConsiderForDefault": true
+	},
+	{
+		"Name": "explorer",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Explorer/MI_Explorer.MI_Explorer",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Explorer/MI_Explorer_PlayerPortrait.MI_Explorer_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "game_dungeons_dlc_1",
+		"Order": 20,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "archeologist",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Archeologist/MI_Archeologist.MI_Archeologist",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Archeologist/MI_Archeologist_PlayerPortrait.MI_Archeologist_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "game_dungeons_dlc_1",
+		"Order": 20,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "winter_warrior",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Winter_Warrior/MI_Winter_Warrior.MI_Winter_Warrior",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Winter_Warrior/MI_Winter_Warrior_PlayerPortrait.MI_Winter_Warrior_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "game_dungeons_dlc_2",
+		"Order": 30,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "frosty",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Frosty/MI_Frosty.MI_Frosty",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Frosty/MI_Frosty_PlayerPortrait.MI_Frosty_PlayerPortrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "game_dungeons_dlc_2",
+		"Order": 30,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "Juknum",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Juknum/MI_Juknum.MI_Juknum",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Juknum/MI_Juknum_Playerportrait.MI_Juknum_Playerportrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 1000,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "Deborn",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Deborn/MI_Deborn.MI_Deborn",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Deborn/MI_Deborn_Playerportrait.MI_Deborn_Playerportrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 1000,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "RobertR11",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/RobertR11/MI_RobertR11.MI_RobertR11",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/RobertR11/MI_RobertR11_Playerportrait.MI_RobertR11_Playerportrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 1000,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "Tekayo",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Tekayo/MI_Tekayo.MI_Tekayo",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Tekayo/MI_Tekayo_Playerportrait.MI_Tekayo_Playerportrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 1000,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "Terrifik",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Terrifik/MI_Terrifik.MI_Terrifik",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Terrifik/MI_Terrifik_Playerportrait.MI_Terrifik_Playerportrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 1000,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "Seirin_Blu",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Seirin_Blu/MI_Seirin_Blu.MI_Seirin_Blu",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/Seirin_Blu/MI_Seirin_Blu_Playerportrait.MI_Seirin_Blu_Playerportrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 1000,
+		"ConsiderForDefault": false
+	},
+	{
+		"Name": "SuperMario20",
+		"AvatarMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/SuperMario20/MI_SuperMario20.MI_SuperMario20",
+			"SubPathString": ""
+		},
+		"PortraitMaterial":
+		{
+			"AssetPathName": "/Game/Actors/Characters/Player/Master/Skins/SuperMario20/MI_SuperMario20_Playerportrait.MI_SuperMario20_Playerportrait",
+			"SubPathString": ""
+		},
+		"RequiredEntitlement": "",
+		"Order": 1001,
+		"ConsiderForDefault": false
+	}
+]
