@@ -6,14 +6,14 @@
 - [ ] HaragonMC
 - [ ] jogurciQ
 - [x] Juknum
-- [ ] Pomik108
+- [x] Pomik108
 - [x] RobertR11
-- [ ] Sei
+- [x] Seirin-Blu
 - [x] Tekayo
 - [x] Terrifik
 
 ### Contributors:
-- [ ] SuperMario20
+- [x] SuperMario20
 
 ## How to compile:
 
