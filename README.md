@@ -3,8 +3,7 @@
 ## To-do list:
 ### Texture Artist:
 - [x] Deborn
-- [ ] HaragonMC
-- [ ] jogurciQ
+- [x] HaragonMC
 - [x] Juknum
 - [x] Pomik108
 - [x] RobertR11
