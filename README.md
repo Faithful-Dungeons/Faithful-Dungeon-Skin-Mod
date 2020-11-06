@@ -1,4 +1,4 @@
-# Faithful Dungeon Team : Skin Mod!
+# Compliance Dungeon Team : Skin Mod!
 
 ## To-do list:
 ### Texture Artist:
